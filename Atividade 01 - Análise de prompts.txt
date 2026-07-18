@@ -1,0 +1,59 @@
+ATIVIDADE PRÁTICA 01 - PROMPTS
+Versão 1 — Prompt natural (primeira coisa que vem na cabeça) (Maritaca.AI)
+“Boa noite! Para sugerir uma receita que combine com seu jantar, preciso te fazer algumas perguntas rápidas:
+1. **Tipo de comida** — você prefere algo leve ou mais substancioso? Tem alguma culinária em mente (italiana, brasileira, asiática, mexicana...)?
+2. **Restrições alimentares** — é vegetariano(a), vegano(a), tem alguma alergia ou evita algum ingrediente (glúten, lactose, frutos do mar)?
+3. **Tempo disponível** — quanto tempo você tem para cozinhar (rápido em até 30 min, médio até 1h, sem pressa)?
+4. **Ingredientes que já tem** — tem alguma proteína (frango, peixe, carne, ovos) ou vegetal que gostaria de usar hoje?
+5. **Número de pessoas** — para quantas pessoas é o jantar?
+Com essas informações consigo te sugerir uma receita perfeita para hoje 😊”
+
+Versão 2 — Aplicando CONTEXTO + TAREFA (Maritaca.AI)
+ 
+
+
+Modo de preparo
+1. Comece pelo molho (enquanto a água ferve) 🍅
+1.	Pique os tomates em cubos pequenos (se usar tomate em lata, esmague com as mãos).
+2.	Pique o alho em lâminas finas.
+3.	Aqueça o azeite numa frigideira média em fogo médio. Acrescente o alho e refogue até ficar levemente dourado — cuidado para não queimar!
+4.	Junte os tomates, tempere com sal e pimenta. Se gostar de um toque picante, adicione a pimenta calabresa.
+5.	Cozinhe por 10–12 minutos, mexendo de vez em quando, até o molho encorpar. Se secar demais, adicione 1–2 colheres de água.
+2. Cozinhe a massa 🍝 6. Enquanto o molho cozinha, coloque ~1 litro de água para ferver numa panela com sal (a água deve ficar "salgada como o mar" — cerca de 1 colher de sopa de sal). 7. Quando a água estiver fervendo, adicione o spaghetti. Cozinhe pelo tempo indicado na embalagem, geralmente 8–10 minutos, até ficar al dente (firme ao morder).
+3. Finalize e sirva ✨ 8. Quando a massa estiver quase no ponto, retire ½ concha da água do cozimento e reserve. 9. Escorra o macarrão (não precisa lavar!). 10. Volte a massa à panela ou jogue direto na frigideira com o molho. Misture bem, adicionando um pouco da água reservada para ajudar o molho a grudar na massa. 11. Desligue o fogo. Acrescente as folhas de manjericão rasgadas com as mãos e o parmesão. Misture mais um pouco. 12. Sirva imediatamente, com mais parmesão por cima.
+________________________________________
+🧑‍🍳 Dicas do Chef
+•	Tomate de lata vs. fresco: Se for fora de época ou os tomates frescos estiverem sem sabor, o tomate pelado em lata dá um resultado até melhor — mais concentrado e consistente.
+•	Água do cozimento: A água da massa é rica em amido e funciona como um "cimento" natural para o molho aderir ao spaghetti. Nunca a desperdice!
+•	Manjericão: Rasgue as folhas com as mãos, nunca corte com faca — isso preserva os óleos essenciais e o aroma.
+•	Variação rápida: Se tiver uma lata de atum em casa, pode adicionar ao molho para uma versão Pasta al Pomodoro e Tonno — fica pronta em 5 minutos a mais.
+
+Versão 3 — Aplicando os 4 PILARES (contexto + tarefa + formato + exemplo) (Claude)
+Espaguete Aglio e Olio Rápido
+Aquele clássico italiano de boteco: só alho, azeite e pimenta. Rápido, gostoso e sem enrolação pra quem mora sozinho.
+3 porções
+Ingredientes
+•	300 grams espaguete
+•	9 dentes de alho, picados
+•	12 tablespoons azeite de oliva
+•	1.5 teaspoons pimenta calabresa (ou pimenta do reino)
+•	3 teaspoons sal
+•	3 tablespoons salsinha picada
+•	6 tablespoons queijo parmesão ralado
+Etapas
+1
+Ferva a água: Coloque uma panela com água e o 3 teaspoons sal pra ferver. Assim que ferver, jogue o 300 grams espaguete pra cozinhar.
+2
+Doure o alho: Enquanto a massa cozinha, numa frigideira, coloque o 12 tablespoons azeite de oliva em fogo baixo e adicione o 9 dentes de alho, picados. Deixe dourar bem devagar, sem queimar.
+3
+Adicione a pimenta: Junte a 1.5 teaspoons pimenta calabresa (ou pimenta do reino) no azeite com alho e misture bem. Desligue o fogo.
+4
+Escorra a massa: Quando o espaguete estiver al dente, escorra guardando um pouco da água do cozimento (uns 2 dedos de copo).
+5
+Misture tudo: Jogue o espaguete na frigideira com o alho e azeite. Adicione um pouco da água reservada e misture bem até dar liga.
+6
+Finalize: Desligue o fogo, jogue a 3 tablespoons salsinha picada e o 6 tablespoons queijo parmesão ralado por cima. Misture e sirva na hora, bem quentinho.
+Notas
+Dica de variação: se quiser deixar mais robusto, adicione um punhado de bacon picado frito junto com o alho, ou uns tomatinhos cereja cortados ao meio pra dar uma acidez. Fica uma delícia!
+
+
