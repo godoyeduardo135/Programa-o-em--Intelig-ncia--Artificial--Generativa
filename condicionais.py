@@ -31,4 +31,3 @@ elif nota >= 3 and nota <= 4:
     print("Voçê está de Recuperação!")
 else:
     print(f"Aluno Reprovado com a nota {nota}")
-
